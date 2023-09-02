@@ -1,0 +1,4 @@
+1. what is CDN ?
+
+2. what is CROSSORIGIN ?
+
